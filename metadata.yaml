@@ -1,0 +1,27 @@
+_repo: Together_8134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herrick, Robert
+    alias: Herrick, Robert Welch
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '2657'
+    url: http://www.gutenberg.org/2009/agents/2657
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Together
+url: http://www.gutenberg.org/ebooks/8134
